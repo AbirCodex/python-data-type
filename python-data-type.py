@@ -55,3 +55,47 @@
 # print(f"Last element of last sublist: {nested_list[-1][-1]}")
 
 
+#Create a dictionary
+# student = {
+#     'name': 'John Doe',
+#     'age': 20,
+#     'courses': ['Math', 'Science', 'History']
+# }
+# print(f"Initial student dictionary: {student}")
+# # Accessing value by key
+# print(f"Student's name: {student['name']}")
+# print(f"Student's age: {student.get('age')}")
+# print(f"Student's courses: {student['courses']}")
+# # Modifying values in a dictionary
+# student['age'] = 21
+# print(f"Modified student dictionary: {student}")
+# # Adding new key-value pairs
+# student['grade'] = 'A'
+# print(f"After adding grade: {student}")
+# # Removing 'Science' from courses list
+# student['courses'].remove('Science')
+# print(f"After removing Science from courses: {student}")
+
+    # my_list = [1, 2, 3]
+    # my_tuple = (4, 5, 6)
+    # my_set = {7, 8, 9}
+    # my_dict = {"a": 10, "b": 11}
+    
+    # for item in my_list: pass
+    # for item in my_tuple: pass
+    # for item in my_set: pass
+    # for key in my_dict: pass # Iterates keys
+    # for value in my_dict.values(): pass
+    # for key, value in my_dict.items(): pass
+    # print(5 in my_list)
+    # print("c" in my_set)
+    # print("a" in my_dict) # Checks if 'a' is a key
+    # print(len(my_list))
+    # print(len(my_tuple))
+    # print(len(my_set))
+    # print(len(my_dict))
+
+# my_dict = {"name": "Alice", "age": 30}
+# print(my_dict["name"]) # Output: Alice
+# print(my_dict.get("city", "Unknown")) 
+# Iterating over a list
